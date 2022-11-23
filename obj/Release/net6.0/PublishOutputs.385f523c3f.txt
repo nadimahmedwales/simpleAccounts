@@ -1,0 +1,6 @@
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/accounting
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/accounting.dll
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/accounting.deps.json
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/accounting.runtimeconfig.json
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/accounting.pdb
+/home/nadim/projects/csharp/accounting/bin/Release/net6.0/publish/CsvHelper.dll

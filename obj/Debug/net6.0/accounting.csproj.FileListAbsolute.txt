@@ -1,0 +1,17 @@
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/accounting
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/accounting.deps.json
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/accounting.runtimeconfig.json
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/accounting.dll
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/ref/accounting.dll
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/accounting.pdb
+/home/nadim/projects/csharp/accounting/bin/Debug/net6.0/CsvHelper.dll
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.csproj.AssemblyReference.cache
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.GeneratedMSBuildEditorConfig.editorconfig
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.AssemblyInfoInputs.cache
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.AssemblyInfo.cs
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.csproj.CoreCompileInputs.cache
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.csproj.CopyComplete
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.dll
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/ref/accounting.dll
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.pdb
+/home/nadim/projects/csharp/accounting/obj/Debug/net6.0/accounting.genruntimeconfig.cache

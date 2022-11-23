@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydTgefwQp+VOVl9jlUcV/GN+V01ZyBsgWlwu4gHuYxrDJbsweEfKwSd/4Skl2/0J1mFTEWhNnhiHxG8n30QvSg==",
+  "success": true,
+  "projectFilePath": "/home/nadim/projects/csharp/accounting/accounting.csproj",
+  "expectedPackageFiles": [
+    "/home/nadim/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
